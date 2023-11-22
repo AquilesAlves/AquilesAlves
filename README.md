@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aquiles Alves
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) meu nome é Aquiles Alves Pereira
 =====================================================================================================================================
 
 Desenvolvedor Web
 -----------------
 
-* 🌍  I'm based in São Paulo
-* 🖥️  See my portfolio at [Meu Portfolio](http://teste.com)
-* ✉️  You can contact me at [aquilespereira789@gmail.com](mailto:aquilespereira789@gmail.com)
-* 🧠  I'm learning HTML, JavaScript
+* 🌍  Moro em São Paulo
+* 🖥️  Meu Portfólio [Meu Portfolio](http://teste.com)
+* ✉️  Você pode me contatar em [aquilespereira789@gmail.com](mailto:aquilespereira789@gmail.com)
+* 🧠  Estou aprendendo HTML, CSS e JavaScript
 
 ### Skills
 
