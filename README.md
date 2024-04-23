@@ -1,6 +1,6 @@
 
-
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) meu nome é Aquiles Alves Pereira
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
+Olá meu nome é Aquiles Alves Pereira 
 =====================================================================================================================================
 
 Desenvolvedor Front-end
