@@ -4,10 +4,10 @@ Hi 👋 My name is Aquiles Alves Pereira
 Desenvolvedor Frontend
 ----------------------
 
-* 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [meus projetos](http://portfolio1-five-sandy.vercel.app/)
-* ✉️  You can contact me at [aquilespereira789@gmail.com](mailto:aquilespereira789@gmail.com)
-* 🧠  I'm learning HTML5, CSS3 e JavaScript
+* 🌍  Moro em São Paulo
+* 🖥️  Para conhecer [meus projetos](http://portfolio1-five-sandy.vercel.app/)
+* ✉️  Você pode me contatar em [aquilespereira789@gmail.com](mailto:aquilespereira789@gmail.com)
+* 🧠  Estou aprendendo HTML5, CSS3, JavaScript e React
 
 ### Skills
 
