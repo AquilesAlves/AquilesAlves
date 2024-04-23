@@ -3,7 +3,7 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) meu nome é Aquiles Alves Pereira
 =====================================================================================================================================
 
-Desenvolvedor Web
+Desenvolvedor Front-end
 -----------------
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
