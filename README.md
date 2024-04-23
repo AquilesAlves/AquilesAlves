@@ -3,6 +3,7 @@ Hi 👋 My name is Aquiles Alves Pereira
 
 Desenvolvedor Frontend
 ----------------------
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 * 🌍  Moro em São Paulo
 * 🖥️  Para conhecer [meus projetos](http://portfolio1-five-sandy.vercel.app/)
