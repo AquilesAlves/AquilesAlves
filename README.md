@@ -8,7 +8,8 @@ Desenvolvedor Frontend
 * 🌍  Moro em São Paulo
 * 🖥️  Para conhecer [meus projetos](http://portfolio1-five-sandy.vercel.app/)
 * ✉️  Você pode me contatar em [aquilespereira789@gmail.com](mailto:aquilespereira789@gmail.com)
-* 🧠  Estou aprendendo HTML5, CSS3, JavaScript e React
+* ⚡  Possuo habilidades em HTML5, CSS3 e JavaScript
+* 🧠  Estou aprendendo React e Node.js 
 
 ### Skills
 
