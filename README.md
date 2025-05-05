@@ -10,7 +10,7 @@
 - ⚡ Tenho experiência com **HTML5**, **CSS3** e **JavaScript**
 - 🧠 Atualmente aprendendo **React** e **Node.js**
 
----
+
 
 ## 🚀 Skills
 
@@ -32,7 +32,7 @@
   </a>
 </p>
 
----
+
 
 ## 🌐 Redes Sociais
 
@@ -45,7 +45,7 @@
   </a>
 </p>
 
----
+
 
 ## 🏆 GitHub Stats
 
@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AquilesAlves&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="AquilesAlves's GitHub Stats" />
 </a>
 
----
+
 
 ## 🐍 Snake Game dos Commits
 
