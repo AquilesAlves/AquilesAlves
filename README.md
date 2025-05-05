@@ -13,8 +13,6 @@ Desenvolvedor Frontend
 
 ### Skills
 
-![snake gif](https://github.com/AquilesAlves/AquilesAlves/blob/output/github-contribution-grid-snake.gif)
-
 
 
 <p align="left">
