@@ -49,5 +49,4 @@ Desenvolvedor Frontend
 </a>
 
 <img src="https://raw.githubusercontent.com/AquilesAlves/AquilesAlves/output/snake.svg" alt="Snake animation" />
-
 ###
