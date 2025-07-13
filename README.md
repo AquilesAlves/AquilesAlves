@@ -11,7 +11,7 @@ Desenvolvedor Frontend
 * ⚡  Possuo habilidades em HTML5, CSS3 e JavaScript
 * 🧠  Estou aprendendo React e Node.js 
 
-### Skills
+### Habilidades
 
 
 
@@ -24,7 +24,7 @@ Desenvolvedor Frontend
 </p>
 
 
-### Socials
+### Redes Sociais
 
 <p align="left">
   <a href="https://www.github.com/AquilesAlves" target="_blank" rel="noreferrer">
