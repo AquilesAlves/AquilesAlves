@@ -42,10 +42,12 @@ Desenvolvedor Frontend
   </a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/AquilesAlves">
   <img src="https://github-readme-stats.vercel.app/api?username=AquilesAlves&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="AquilesAlves's GitHub stats" />
 </a>
+
+<img src="https://raw.githubusercontent.com/AquilesAlves/AquilesAlves/output/snake.svg" alt="Snake animation" />
+
+###
