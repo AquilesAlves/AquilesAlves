@@ -43,18 +43,3 @@ Desenvolvedor Frontend
     </picture>
   </a>
 </p>
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AquilesAlves&show_icons=true&theme=dark&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=1c1917&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AquilesAlves&layout=compact&theme=dark&hide_border=true&title_color=ef4444&text_color=ffffff&bg_color=1c1917&cache_seconds=86400)
-
----
-
-### 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AquilesAlves/AquilesAlves/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AquilesAlves/AquilesAlves/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/AquilesAlves/AquilesAlves/output/github-contribution-grid-snake.svg" />
-</picture>
